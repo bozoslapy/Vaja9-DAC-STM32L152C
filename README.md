@@ -20,4 +20,4 @@ ODGOVORI NA VPRAŠANJA -->
 KOMENTAR NA DELOVANJE -->
 ![Slika mikroprocesorja]()
 ![Prikaz na voltmetru]()
-![DAC]()
+![DAC](https://raw.githubusercontent.com/bozoslapy/Vaja9-DAC-STM32L152C/main/vaja%209%20dac.PNG)
