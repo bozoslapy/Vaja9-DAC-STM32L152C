@@ -1,5 +1,6 @@
 # Vaja9-DAC-STM32L152C
 KOMENTAR NA DELOVANJE --> 
+Naloga nama ni povzročala večjih težav in sva jo uspela zelo hitro narediti. V se je potekalo kot po maslu.
 
 
 ODGOVORI NA VPRAŠANJA -->
