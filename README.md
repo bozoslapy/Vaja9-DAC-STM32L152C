@@ -18,6 +18,6 @@ ODGOVORI NA VPRAŠANJA -->
 --> 70mV 
 
 KOMENTAR NA DELOVANJE -->
-![Slika mikroprocesorja]()
+![Slika mikroprocesorja](https://raw.githubusercontent.com/bozoslapy/Vaja9-DAC-STM32L152C/main/pinout%209.PNG)
 ![Prikaz na voltmetru]()
 ![DAC](https://raw.githubusercontent.com/bozoslapy/Vaja9-DAC-STM32L152C/main/vaja%209%20dac.PNG)
