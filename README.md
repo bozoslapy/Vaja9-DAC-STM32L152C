@@ -18,3 +18,6 @@ ODGOVORI NA VPRAŠANJA -->
 --> 70mV 
 
 KOMENTAR NA DELOVANJE -->
+![DAC]()
+![Prikaz na voltmetru]()
+![]()
