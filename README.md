@@ -19,5 +19,5 @@ ODGOVORI NA VPRAŠANJA -->
 
 KOMENTAR NA DELOVANJE -->
 ![Slika mikroprocesorja](https://raw.githubusercontent.com/bozoslapy/Vaja9-DAC-STM32L152C/main/pinout%209.PNG)
-![Prikaz na voltmetru]()
+![Prikaz na voltmetru](https://raw.githubusercontent.com/bozoslapy/Vaja9-DAC-STM32L152C/main/IMG_20230131_084907.jpg)
 ![DAC](https://raw.githubusercontent.com/bozoslapy/Vaja9-DAC-STM32L152C/main/vaja%209%20dac.PNG)
