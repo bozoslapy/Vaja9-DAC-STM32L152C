@@ -1,4 +1,6 @@
 # Vaja9-DAC-STM32L152C
+KOMENTAR NA DELOVANJE --> 
+
 
 ODGOVORI NA VPRAŠANJA -->
 
@@ -17,7 +19,14 @@ ODGOVORI NA VPRAŠANJA -->
 4.e) S pomočjo V-metra preverite napetost na vašem DAC izhodnem pinu (fotografirajte izmerjeno vrednost). Kakšno je odstopanje v mV?
 --> 70mV 
 
-KOMENTAR NA DELOVANJE -->
+
+Slika mikroprocesorja -->
 ![Slika mikroprocesorja](https://raw.githubusercontent.com/bozoslapy/Vaja9-DAC-STM32L152C/main/pinout%209.PNG)
+
+
+Prikaz meritve na voltmetru -->
 ![Prikaz na voltmetru](https://raw.githubusercontent.com/bozoslapy/Vaja9-DAC-STM32L152C/main/IMG_20230131_084907.jpg)
+
+
+DAC okno -->
 ![DAC](https://raw.githubusercontent.com/bozoslapy/Vaja9-DAC-STM32L152C/main/vaja%209%20dac.PNG)
