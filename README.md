@@ -18,6 +18,6 @@ ODGOVORI NA VPRAŠANJA -->
 --> 70mV 
 
 KOMENTAR NA DELOVANJE -->
-![DAC]()
+![Slika mikroprocesorja]()
 ![Prikaz na voltmetru]()
-![]()
+![DAC]()
